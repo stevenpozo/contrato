@@ -1,0 +1,7 @@
+com\contrato\contrato\Utils\Validations.class
+com\contrato\contrato\ContratoApplication.class
+com\contrato\contrato\Entity\Contract.class
+com\contrato\contrato\Service\ContractService.class
+com\contrato\contrato\Repository\IContractRepository.class
+com\contrato\contrato\Service\IContractService.class
+com\contrato\contrato\Controller\ContractController.class
